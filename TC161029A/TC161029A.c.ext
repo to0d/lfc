@@ -1,0 +1,13 @@
++++
+date = "2016-10-29"
+!outline = "en_1"
+!outline_level = 3
+!top = ""
+mark = "Test - lfc_dump_memory_hex"
+tags = [
+    "lfc_dump_memory_hex",
+    "LFC"
+]
+!template = md2.template
+domain = "LFC"
++++

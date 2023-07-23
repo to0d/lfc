@@ -1,0 +1,13 @@
++++
+date = "2017-04-06"
+!outline = "en_1"
+!outline_level = 3
+!top = ""
+mark = "test IO - create sub folder - WORKING"
+tags = [
+    "IO",
+    "LFC"
+]
+!template = md2.template
+domain = "LFC"
++++

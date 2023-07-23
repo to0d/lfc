@@ -1,1 +1,1 @@
-# lfc
+# LFC (Limited Feature C++ source libraries)
