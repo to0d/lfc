@@ -3,11 +3,10 @@ date = "2016-11-07"
 !outline = "en_1"
 !outline_level = 3
 !top = ""
-mark = "Test - LFC Unit Test"
+mark = "LFC Unit Test"
 tags = [
     "GTest",
-    "UT",
-    "LFC"
+    "UT"
 ]
 !template = md2.template
 domain = "LFC"

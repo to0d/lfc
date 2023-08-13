@@ -1,5 +1,5 @@
-#ifndef __LFC_STRING_COMMON__
-#define __LFC_STRING_COMMON__
+#ifndef __LFC_MEMRCHR__
+#define __LFC_MEMRCHR__
 
 #include <string.h>
 
@@ -8,13 +8,13 @@
 /* character c. Does not like memchr, lfc_memrchr will try to find   */
 /* the last location                                                 */
 /*********************************************************************/
-void *lfc_memrchr(const void *s, char c, size_t count)
+const char *lfc_memrchr(const char *s, char c, size_t count)
 {
 #define MAX_CHECK_LENGTH 65535
 
-    char*  pStart   = (char*) s;
-    char*  pLoc     = NULL;
-    char*  pFindLoc = NULL;
+    const char*  pStart   = (char*) s;
+    const char*  pLoc     = NULL;
+    const char*  pFindLoc = NULL;
     size_t nFindLen = 0;
     
     if( s == NULL )
@@ -42,4 +42,4 @@ void *lfc_memrchr(const void *s, char c, size_t count)
     return pLoc;
 }
           
-#endif //__LFC_STRING_COMMON__
+#endif //__LFC_MEMRCHR__

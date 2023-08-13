@@ -1,6 +1,6 @@
-CFLAGS=-I ../include/ -g
+CFLAGS=-I ../../include/ -g
 
-a.out: TC161029A.o
+a.out: TC161019A.o
 	gcc -o $@ $^  -std=c99
 ..c.o:
 	gcc -c $<

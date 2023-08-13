@@ -1,0 +1,16 @@
++++
+date = "2017-05-15"
+!rename = ""
+!outline = "en_1"
+!outline_level = 3
+!top = ""
+mark = "lfc_simplify_path testcase"
+tags = [
+    "lfc_simplify_path",
+    "Simplify-Path"
+]
+!template = md2.template
+!domain = ""
+!link = ""
+!index_word_group=false
++++

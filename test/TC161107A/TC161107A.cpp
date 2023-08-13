@@ -1,7 +1,6 @@
 #include <limits.h>
 #include <gtest/gtest.h>
-#include <lfc/trace.h>
-#include <lfc/string_helper.h>
+#include <lfc/lfc.h>
 
 
 TEST(Trace, lfc_dump_memory_hex)

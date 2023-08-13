@@ -3,11 +3,10 @@ date = "2017-04-06"
 !outline = "en_1"
 !outline_level = 3
 !top = ""
-mark = "test IO - create sub folder - WORKING"
-tags = [
-    "IO",
-    "LFC"
-]
+mark = "lfc_is_dir/lfc_mkdirs/lfc_rm_dir testcase"
+!tags = [
+!    ""
+!]
 !template = md2.template
-domain = "LFC"
+!domain = ""
 +++

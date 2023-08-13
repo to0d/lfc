@@ -1,0 +1,12 @@
++++
+date = "2016-12-22"
+!outline = "en_1"
+!outline_level = 3
+!top = ""
+mark = "LFC_STATIC_ASSERT testcase"
+tags = [
+    "LFC_STATIC_ASSERT"
+]
+!template = md2.template
+!domain = "LFC"
++++

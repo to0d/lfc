@@ -3,11 +3,10 @@ date = "2016-10-29"
 !outline = "en_1"
 !outline_level = 3
 !top = ""
-mark = "Test - lfc_dump_memory_hex"
+mark = "lfc_memrchr testcase"
 tags = [
-    "lfc_dump_memory_hex",
-    "LFC"
+    "lfc_memrchr"
 ]
 !template = md2.template
-domain = "LFC"
+!domain = "LFC"
 +++

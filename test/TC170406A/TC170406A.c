@@ -1,11 +1,11 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <fcntl.h>  
 #include <sys/types.h>  
 #include <unistd.h>  
-#include <lfc/file/lfc_file.h>
+#include <lfc/lfc.h>
 
-#define	D2MAXLINE	                4096          /* max line length */
- 
+
 int main( void )
 {
     int len;

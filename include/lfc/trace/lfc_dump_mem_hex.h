@@ -1,6 +1,8 @@
 #ifndef __LFC_DUMP_MEM_HEX__
 #define __LFC_DUMP_MEM_HEX__
 
+#include <ctype.h>
+
 char __dump_hex_to_char(char v)
 {
     if( v <= 9 )

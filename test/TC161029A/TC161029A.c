@@ -1,5 +1,5 @@
 #include "stdio.h"
-#include <lfc/trace.h>
+#include <lfc/lfc.h>
 
 int main( void )
 {

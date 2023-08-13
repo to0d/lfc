@@ -1,0 +1,3 @@
+s=xx.yy.z, c=., len=6, rst=.z
+s=xx.yy.z, c=., len=5, rst=.yy.z
+output: done.
