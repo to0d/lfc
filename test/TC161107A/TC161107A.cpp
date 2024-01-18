@@ -21,7 +21,5 @@ TEST(String, lfc_memrchr)
     EXPECT_STREQ(NULL,(char*) lfc_memrchr("xx.yy.z", '.', 1));
     EXPECT_STREQ(NULL,(char*) lfc_memrchr("xx.yy.z", '.', 0));
     // EXPECT_STREQ(NULL,(char*) lfc_memrchr("xx.yy.z", '.', -1));
-    
-    printf( "output: done.\n" );
 }
 
